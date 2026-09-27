@@ -1,3 +1,6 @@
+![Veily](./veily-banner.png)
+
+
 # Veily — Advanced Device Environment & Privacy Manager
 
 **Professional-grade device environment & privacy manager for rooted Android**
